@@ -24,7 +24,7 @@ Analyse revenue growth, store performance, demand patterns, and product mix to i
 
 ## Project Files
 
-- [View the written analysis](Coffee_Shop_Sales_Report.pdf)
+- [View the written analysis](Coffee_Shop_Sales_Report..pdf)
 - [Download the Excel workbook](Coffee_Shop_Sales_Analysis.xlsx)
 
 ## Data Source
